@@ -1,0 +1,2 @@
+# codingWithSodoo
+AI &amp; stuff
