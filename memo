@@ -1,0 +1,19 @@
+E --> loss function (mean squeare error function)
+E 0 baih tusmaa training sain
+E = 0.5(y_train-y_predict)^2
+
+w1' = w1 - A * dE/dw1
+W2' = w2 - A * dE/dw2
+B' = b- A * dE/db
+
+3n parameter burees E-r ulamjlal avah
+A-g tohiruulah hamgiin baga utga ruu ni duhuuleh
+
+Y = X * W.T + b yrunhii tegshitgel
+E = 0.5*(y-Y)^2
+E = 1/2 * (y-X*W.T-b)^2
+
+W w1 w2-n niilsen vector
+
+W' = W - A*dE/dW
+dE/dW =  
